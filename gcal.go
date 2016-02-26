@@ -1,4 +1,4 @@
-// Package gcal implements the github.com/itsabotabot/shared/cal interface for
+// Package gcal implements the github.com/itsabot/abot/shared/cal interface for
 // Google Calendar.
 package gcal
 
